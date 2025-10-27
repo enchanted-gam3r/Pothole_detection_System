@@ -1,0 +1,7 @@
+
+path: C:\Users\acer\OneDrive\Desktop\Road Images\road_img\YOLO_Dataset
+train: images/train
+val: images/val
+
+nc: 1
+names: ['pothole']
